@@ -1,0 +1,27 @@
+_repo: USDA-Farmers-Bulletin-No-820-Sweet-Clover-Utilization_62782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coe, H. S.
+    aliases:
+    - Coe, Howard Sheldon
+    - Coe, Howard S.
+    birthdate: 1888
+    deathdate: 1918
+    gutenberg_agent_id: '45249'
+    url: http://www.gutenberg.org/2009/agents/45249
+description: ''
+gutenberg_issued: '2020-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USDA Farmers'' Bulletin No. 820
+
+  Sweet Clover: Utilization'
+url: http://www.gutenberg.org/ebooks/62782
